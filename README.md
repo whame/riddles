@@ -13,6 +13,7 @@ helpful).
 - [Greedy pirates](riddles/pirates.md)
 - [Prisoners with hats](riddles/hats.md)
 - [Prisoners and a light bulb](riddles/bulb.md)
+- [Hypersphere and n-simplex tetrahedron](riddles/hypersphere.md)
 
 ## Contribute
 
