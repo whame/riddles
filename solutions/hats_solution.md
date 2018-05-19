@@ -3,7 +3,7 @@ Solution to prisoners with hats
 
 Clearly, the first prisoner can not know his hat color in any way. He thus has a
 50 % chance of guessing his hat color correctly. However, he can see all other
-prisoners hats. He either sees an odd number or an even number of white hats in
+prisoners' hats. He either sees an odd number or an even number of white hats in
 front of him. If he sees an odd number of hats, he says "black", otherwise
 "white".
 
@@ -24,7 +24,7 @@ see an even number of white hats in front of him. The second prisoner can
 however now again, by counting how many white hats he can see, determine his own
 color with the same reasoning as before. Indeed, all of the other prisoners
 adopt exactly the same reasoning. By just keeping track of the previous
-prisoners answers and counting how many white hats they can see, they can
+prisoners' answers and counting how many white hats they can see, they can
 determine their own hat color. Thus, with this strategy you can save all but the
 first prisoner.
 
