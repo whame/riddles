@@ -14,6 +14,7 @@ helpful).
 - [Prisoners with hats](riddles/hats.md)
 - [Prisoners and a light bulb](riddles/bulb.md)
 - [Sphere and tetrahedron](riddles/sphere.md)
+- [Circular palace](riddles/palace.md)
 
 ## Contribute
 
