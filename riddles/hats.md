@@ -1,5 +1,5 @@
 Prisoners with hats
-==================
+===================
 
 A prison guard is giving 10 prisoners a second chance for their death
 sentences. He tells them that tomorrow he will put all the prisoners in a line
