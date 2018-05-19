@@ -1,5 +1,5 @@
-Hypersphere and n-simplex tetrahedron
-=====================================
+Solution to sphere and tetrahedron
+==================================
 
 This solution to this problem is preferably started out with a
 divide-and-conquer approach, i.e. "Randomly select 3 points on the surface of a
