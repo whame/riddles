@@ -10,7 +10,7 @@ prisoners do not now the distribution beforehand.
 
 Each prisoner in this line can only see the prisoners in front of him and their
 hats. He can not see his own hat nor all the persons behind him in the
-line. Thus, the first prisoner in this line can see the other 9 prisoners hats
+line. Thus, the first prisoner in this line can see the other 9 prisoners' hats
 (but not his own). The second prisoner can see 8 prisoners in front of him and
 so on. The last prisoner in the line does not see anyones hat (including his
 own).
