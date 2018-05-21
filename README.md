@@ -15,6 +15,7 @@ helpful).
 - [Prisoners and a light bulb](riddles/bulb.md)
 - [Sphere and tetrahedron](riddles/sphere.md)
 - [Circular palace](riddles/palace.md)
+- [Devil's chessboard](riddles/chess.md)
 
 ## Contribute
 
