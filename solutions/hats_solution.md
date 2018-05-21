@@ -4,10 +4,10 @@ Solution to prisoners with hats
 Clearly, the first prisoner can not know his hat color in any way. He thus has a
 50 % chance of guessing his hat color correctly. However, he can see all other
 prisoners' hats. He either sees an odd number or an even number of white hats in
-front of him. If he sees an odd number of hats, he says "black", otherwise
+front of him. If he sees an odd number of hats, he answers "black", otherwise
 "white".
 
-Suppose the first one says "black", meaning he can see an odd number of white
+Suppose the first one answers "black", meaning he can see an odd number of white
 hats in front of him. The second prisoner in the line hears this, and can
 determine his own color by counting how many white hats he can see in front of
 him. Suppose he sees an odd number of white hats. Since the first prisoner said
@@ -19,7 +19,7 @@ an even number of white hats. Since the first prisoner said "black", he must
 then now have a white hat (otherwise the first prisoner would also have seen an
 even number of white hats and answered "white").
 
-On the other hand, suppose the first one instead says "white", meaning he can
+On the other hand, suppose the first one instead answers "white", meaning he can
 see an even number of white hats in front of him. The second prisoner can
 however now again, by counting how many white hats he can see, determine his own
 color with the same reasoning as before. Indeed, all of the other prisoners

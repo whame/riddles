@@ -18,11 +18,12 @@ own).
 The guard tells them that tomorrow he will start with the first person in the
 line (the one who can see the other nines hats) and ask him for his hat
 color. Then he proceeds with the second prisoner in line and asks for his color,
-and so on all the way to last prisoner in the line. If a prisoner tells his hat
-color correctly he will be spared, otherwise he will be killed. The prisoners
-can not communicate with each other in any way during this process. Also, they
-can only answer the guard with either "black" or "white"; nothing else can be
-uttered.
+and so on all the way to last prisoner in the line. The prisoners can not
+communicate with each other in any way during this process; they answer the
+guard by writing either "black" or "white" on the guard's notepad. However, the
+guard reads the prisoner's answer out loud so everyone can hear it before
+continuing to the next prisoner in line. If a prisoner tells his hat color
+correctly he will be spared, otherwise he will be killed.
 
 Now, the guard leaves the prisoners with these instructions and they start to
 discuss a strategy for tomorrow. What is the optimal strategy in order to save
