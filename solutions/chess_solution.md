@@ -32,10 +32,10 @@ Now let's say that "the magic square" is number 27, i.e. 011011.
 By XOR operation of these two binary numbers, we get the square of the coin that
 we need to flip in order to represent "the magic square", e.g:
 
-100011
-011011
-------
-111000
+| 100011  |
+| 011011  |
+| --------|
+| 111000  |
 
 111000 = 56
 
