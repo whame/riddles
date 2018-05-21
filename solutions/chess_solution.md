@@ -36,14 +36,14 @@ we need to flip in order to represent "the magic square", e.g:
 
 **011011**
 
-~~-----------~~
+~~------------~~
 
 111000
 
-111000 = 56
+And 111000 = 56
 
-If you flip coin 56 in this case, then when your friend comes in and examines
-the groups for their parity, he will read get the binary number 011011 which is
+Hence, if you flip coin 56 in this case, then when your friend comes in and examines
+the groups for their parity, he will get the binary number 011011 which is
 27, "the magic square".
 
 
