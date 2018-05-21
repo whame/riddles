@@ -13,7 +13,9 @@ helpful).
 - [Greedy pirates](riddles/pirates.md)
 - [Prisoners with hats](riddles/hats.md)
 - [Prisoners and a light bulb](riddles/bulb.md)
-- [Hypersphere and n-simplex tetrahedron](riddles/hypersphere.md)
+- [Sphere and tetrahedron](riddles/sphere.md)
+- [Circular palace](riddles/palace.md)
+- [Devil's chessboard](riddles/chess.md)
 
 ## Contribute
 

@@ -26,4 +26,4 @@ Yet another divide-and-conquer problem. Consider the chip consisting of:
 In general, this works with *n* pirates where the captain proposes that pirates
 1+2k gets one coin, where k=1,2,3,...
 
-[**Back to riddle**](../solutions/pirates.md)
+[**Back to riddle**](../riddles/pirates.md)
