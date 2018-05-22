@@ -16,6 +16,7 @@ helpful).
 - [Sphere and tetrahedron](riddles/sphere.md)
 - [Circular palace](riddles/palace.md)
 - [Devil's chessboard](riddles/chess.md)
+- [Cursed temple](riddles/temple.md)
 
 ## Contribute
 
