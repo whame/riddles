@@ -17,11 +17,15 @@ perhaps another color entirely.
 Each night, when the captain of the ship comes, the islanders have a chance to
 leave the barren and desolate spit of land they have been marooned on. If an
 islander tells the captain the color of his or her own eyes, they may board the
-ship and leave. If they get it wrong, they will be shot dead.
+ship and leave. If they get it wrong, they will be shot dead. All islanders are
+also completely logical beings; they only answer if they can logically deduce a
+correct conclusion.
 
-The captain has told the islanders that "At least one of you has blue eyes".
+One night, the captain tells the islanders:
 
-Who leaves the island? And when do they leave?
+"At least one of you has blue eyes."
+
+Who leaves the island and on what night?
 
 
 [**Solution**](../solutions/eyes_solution.md)
