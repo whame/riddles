@@ -27,5 +27,4 @@ One night, the captain tells the islanders:
 
 Who leaves the island and on what night?
 
-
 [**Solution**](../solutions/eyes_solution.md)
