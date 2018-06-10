@@ -30,8 +30,8 @@ way. Also, make sure you follow the conventions:
   maximum 80 characters per line.
 * Give the riddle a short and concise title
 * Save the question as a filename with only one word in the format
-  `WORD.md`. The solution should be saved as `WORD_solution.md` and link to this
-  solution file in the question file.
+  `WORD.md`. The solution should be saved as `WORD_solution.md`.
+* Link riddle file to solution and vice versa.
 
 Please study the files for examples on how to follow these conventions
 correctly.
