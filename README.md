@@ -10,13 +10,15 @@ helpful).
 ## The riddles
 
 - [Blue eyes](riddles/eyes.md)
-- [Greedy pirates](riddles/pirates.md)
-- [Prisoners with hats](riddles/hats.md)
-- [Prisoners and a light bulb](riddles/bulb.md)
-- [Sphere and tetrahedron](riddles/sphere.md)
 - [Circular palace](riddles/palace.md)
-- [Devil's chessboard](riddles/chess.md)
 - [Cursed temple](riddles/temple.md)
+- [Devil's chessboard](riddles/chess.md)
+- [Greedy pirates](riddles/pirates.md)
+- [Knight and knave](riddles/knight.md)
+- [Prisoners and a light bulb](riddles/bulb.md)
+- [Prisoners with hats](riddles/hats.md)
+- [Sphere and tetrahedron](riddles/sphere.md)
+
 
 ## Contribute
 
