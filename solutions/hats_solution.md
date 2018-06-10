@@ -31,3 +31,5 @@ first prisoner.
 In general, this strategy works for _n_ prisoners, saving _n_-1 prisoners. This
 is also optimal, since we save all prisoners except the first one, who can not
 be saved definitely.
+
+[**Back to riddle**](../riddles/hats.md)

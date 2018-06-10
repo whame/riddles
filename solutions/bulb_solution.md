@@ -19,3 +19,5 @@ every prisoner has entered the office.
 solutions. However, the question of optimality is still open. For more details
 please see this
 [paper](https://www.ocf.berkeley.edu/~wwu/papers/100prisonersLightBulb.pdf).
+
+[**Back to riddle**](../riddles/bulb.md)
