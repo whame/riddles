@@ -31,7 +31,7 @@ way. Also, make sure you follow the conventions:
 * Give the riddle a short and concise title
 * Save the question as a filename with only one word in the format
   `WORD.md`. The solution should be saved as `WORD_solution.md`.
-* Link riddle file to solution and vice versa.
+* Link to the solution file in the question file, and vice versa.
 
 Please study the files for examples on how to follow these conventions
 correctly.
