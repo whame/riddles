@@ -15,6 +15,7 @@ helpful).
 - [Devil's chessboard](riddles/chess.md)
 - [Greedy pirates](riddles/pirates.md)
 - [Knight and knave](riddles/knight.md)
+- [Last man standing](riddles/last.md)
 - [Prisoners and a light bulb](riddles/bulb.md)
 - [Prisoners with hats](riddles/hats.md)
 - [Sphere and tetrahedron](riddles/sphere.md)
