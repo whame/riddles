@@ -19,6 +19,7 @@ helpful).
 - [Prisoners and a light bulb](riddles/bulb.md)
 - [Prisoners with hats](riddles/hats.md)
 - [Sphere and tetrahedron](riddles/sphere.md)
+- [Two burning yarns](riddles/yarns.md)
 
 
 ## Contribute
