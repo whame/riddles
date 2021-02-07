@@ -1,4 +1,4 @@
-Solution to the burning knitting yarns
+Solution to the two burning yarns
 ======================================
 
 If you burn one piece from two ends, it takes 30 seconds to burn. 
