@@ -8,6 +8,6 @@ number four) and gives the sword to the person after (person number five). They
 keep doing this until there is only one man standing.
 
 Knowing these rules, which position in the circle should you choose to
-guarrantee your survival?
+guarantee your survival?
 
 **[Solution](../solutions/last_solution.md)**
