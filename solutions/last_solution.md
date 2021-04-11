@@ -21,6 +21,4 @@ Now, the number of the survivor after k = 100100 deaths is two times the number 
 
 All in all, 1000000 << 1 + 100100 << 1 = 73.
 
-Remark: This is an O(1) operation, meaning it will be computed in one clock cycle on a computer.
-
 [**Back to riddle**](../riddles/last.md)
