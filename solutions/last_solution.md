@@ -1,24 +1,32 @@
 Solution to last man standing
 =============================
 
-If we examine what happens when the number of people if a power of 2, we notice that the person who starts is also the last one to survive, since the number will halve every round without a reminder.
+If we examine what happens when the number of people is a power of two, we
+notice that the person who starts is also the last one to survive. For example,
+with just two persons, it is clear that person number one is the sole survivor,
+after killing number two.
 
-Now, when the number of people N is different than a power of 2, we need to find the closest power of 2 smaller than N: n = 2^floor(log2(N)), and realise that after N - n deaths, the next person wins the game.
+With four persons, the first one kills number two. Number three kills number
+four. After this, the sword has been passed a whole round back to person number
+one. Now, only two persons remain (person number one and person number three).
+We are now back to the previous situation with just two persons and the sword in
+person number one's hands! Thus, it is not hard to see that when the number of
+people is a power of two, the first one is always the last survivor (this can be
+shown easily with [induction][1]).
 
-For instance, if N = 100, n = 64, and after N - n = 36 deaths, the person holding the sword (73) will be the one surviving.
+Now, when the number of people `N` is different than a power of two, we need to
+find the closest power of two smaller than `N`, i.e. `n = 2^floor(log2(N))`.
+This is because after `N - n` deaths we have exactly `n` people left, i.e. a
+power of two people. We already know from above that in this case, the first
+person is the survivor. Thus, the person after `N - n` deaths will always be the
+sole survivor!.
 
-This can also be elegantly solved by exploiting circular bit shift:
-- 100 (people) in binary is 1100100
-- Circular left shift 1100100 yields 1001001
-- 1001001 in base 10 is 73
+For instance, if `N = 100` we have `n = 64` and `N - n = 36`. The person holding
+the sword after 36 deaths is person number `36 * 2 + 1 = 73` (since every other
+person is killed). There are now 64 persons left (a power of two) and person
+number 73 is holding the sword. You should therefore be person number 73 in
+order to survive!
 
-i.e. the 73rd person is the last man standing.
-
-To see why, note that the binary representation of N can be split into the sum of the closest power of 2 smaller than N, n (a 1 followed by log2(n) - 1 zeros), and a reminder k; N = n + k
-
-For instance: 100 = 64 + 36, in binary, 1100100 = 1000000 + 100100.
-Now, the number of the survivor after k = 100100 deaths is two times the number of deaths (left bitshift, k << 1), plus one, which is the left circular bitshift of the significant bit (n << 1).
-
-All in all, 1000000 << 1 + 100100 << 1 = 73.
+[1]: https://en.wikipedia.org/wiki/Mathematical_induction
 
 [**Back to riddle**](../riddles/last.md)
